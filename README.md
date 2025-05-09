@@ -31,7 +31,7 @@ This README file provides an overview of the project and other relevant informat
 - GraphQL (version 16.6.0)
 
 ### Installation
-1. Clone the repository: 
+1. Clone the repository: https://github.com/azizromdhane/Hospital-Shift-Management-Project
 2. Install the dependencies using npm:
    ```bash
    npm install
